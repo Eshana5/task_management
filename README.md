@@ -1,6 +1,5 @@
 # To-Do List App 📝
 
-<img src="img/ico.png" alt="To-Do List App" width="35" height="35">
 
 ## Overview 🌟
 
