@@ -1,10 +1,10 @@
 # To-Do List App Readme
 
-**Developed by: Azim Baji Krishna**
+**Developed by: Eshana Chauhan**
 
 ## Introduction
 
-This To-Do List app allows you to manage your tasks efficiently and stay organized. It provides a user-friendly interface to add, update, and delete tasks easily. This README file will guide you on how to use the app effectively.
+This task management app allows you to manage your tasks efficiently and stay organized. It provides a user-friendly interface to add, update, and delete tasks easily. This README file will guide you on how to use the app effectively.
 
 ## How to Use
 
